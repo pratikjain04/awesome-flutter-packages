@@ -21,6 +21,7 @@ Is your favourite package missing? Let me know or create a pull request...
 - [Logging & Error Handling](#Logging--Error-Handling)
 
 <br>
+<br>
 
 # Widgets
 
